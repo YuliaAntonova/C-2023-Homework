@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.GlobalUsings.g.cs
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.AssemblyInfo.cs
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/bin/Debug/net6.0/Task6
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/bin/Debug/net6.0/Task6.deps.json
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/bin/Debug/net6.0/Task6.runtimeconfig.json
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/bin/Debug/net6.0/Task6.dll
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/bin/Debug/net6.0/ref/Task6.dll
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/bin/Debug/net6.0/Task6.pdb
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.dll
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/ref/Task6.dll
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.pdb
+/Users/yulia/Desktop/С#2023/Seminar1/Task6/obj/Debug/net6.0/Task6.genruntimeconfig.cache
