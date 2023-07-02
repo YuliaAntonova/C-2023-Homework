@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.GlobalUsings.g.cs
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.AssemblyInfo.cs
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/bin/Debug/net6.0/Task13
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/bin/Debug/net6.0/Task13.deps.json
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/bin/Debug/net6.0/Task13.runtimeconfig.json
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/bin/Debug/net6.0/Task13.dll
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/bin/Debug/net6.0/ref/Task13.dll
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/bin/Debug/net6.0/Task13.pdb
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.dll
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/ref/Task13.dll
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.pdb
+/Users/yulia/Desktop/С#2023/Seminar2/Task13/obj/Debug/net6.0/Task13.genruntimeconfig.cache
