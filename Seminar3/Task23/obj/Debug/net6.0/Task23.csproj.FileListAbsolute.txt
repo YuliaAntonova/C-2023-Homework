@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/bin/Debug/net6.0/Task23
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/bin/Debug/net6.0/Task23.dll
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/bin/Debug/net6.0/ref/Task23.dll
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.GlobalUsings.g.cs
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.dll
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/ref/Task23.dll
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/yulia/Desktop/С#2023/Seminar3/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
