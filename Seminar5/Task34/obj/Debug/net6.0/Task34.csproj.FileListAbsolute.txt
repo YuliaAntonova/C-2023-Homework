@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/bin/Debug/net6.0/Task34
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/bin/Debug/net6.0/Task34.deps.json
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/bin/Debug/net6.0/Task34.runtimeconfig.json
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/bin/Debug/net6.0/Task34.dll
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/bin/Debug/net6.0/ref/Task34.dll
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/bin/Debug/net6.0/Task34.pdb
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.GlobalUsings.g.cs
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.AssemblyInfo.cs
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.dll
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/ref/Task34.dll
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.pdb
+/Users/yulia/Desktop/С#2023/Seminar5/Task34/obj/Debug/net6.0/Task34.genruntimeconfig.cache
