@@ -1,0 +1,6 @@
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.GlobalUsings.g.cs
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.AssemblyInfo.cs
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.csproj.CoreCompileInputs.cache

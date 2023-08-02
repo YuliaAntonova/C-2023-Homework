@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/bin/Debug/net6.0/Task45
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/bin/Debug/net6.0/Task45.deps.json
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/bin/Debug/net6.0/Task45.runtimeconfig.json
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/bin/Debug/net6.0/Task45.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/bin/Debug/net6.0/ref/Task45.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/bin/Debug/net6.0/Task45.pdb
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.GlobalUsings.g.cs
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.AssemblyInfo.cs
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/ref/Task45.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.pdb
+/Users/yulia/Desktop/С#2023/Seminar6/Task45/obj/Debug/net6.0/Task45.genruntimeconfig.cache
