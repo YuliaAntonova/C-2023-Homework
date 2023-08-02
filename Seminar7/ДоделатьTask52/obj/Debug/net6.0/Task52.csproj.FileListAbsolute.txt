@@ -1,0 +1,16 @@
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.GlobalUsings.g.cs
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.csproj.AssemblyReference.cache
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.AssemblyInfoInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.AssemblyInfo.cs
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/bin/Debug/net6.0/Task52
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/bin/Debug/net6.0/Task52.deps.json
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/bin/Debug/net6.0/Task52.runtimeconfig.json
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/bin/Debug/net6.0/Task52.dll
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/bin/Debug/net6.0/ref/Task52.dll
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/bin/Debug/net6.0/Task52.pdb
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.dll
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/ref/Task52.dll
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.pdb
+/Users/yulia/Desktop/С#2023/Seminar7/Task52/obj/Debug/net6.0/Task52.genruntimeconfig.cache
