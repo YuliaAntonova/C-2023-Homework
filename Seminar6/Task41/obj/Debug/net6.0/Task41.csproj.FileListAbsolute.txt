@@ -4,3 +4,13 @@
 /Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.AssemblyInfoInputs.cache
 /Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.AssemblyInfo.cs
 /Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.csproj.CoreCompileInputs.cache
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/bin/Debug/net6.0/Task41
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/bin/Debug/net6.0/Task41.deps.json
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/bin/Debug/net6.0/Task41.runtimeconfig.json
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/bin/Debug/net6.0/Task41.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/bin/Debug/net6.0/ref/Task41.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/bin/Debug/net6.0/Task41.pdb
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/ref/Task41.dll
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.pdb
+/Users/yulia/Desktop/С#2023/Seminar6/Task41/obj/Debug/net6.0/Task41.genruntimeconfig.cache

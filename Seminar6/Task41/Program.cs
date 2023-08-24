@@ -1,14 +1,16 @@
 ﻿/*Задача 41: Пользователь вводит с клавиатуры M чисел. 
 Посчитайте, сколько чисел больше 0 ввёл пользователь.
 0, 7, 8, -2, -2 -> 2; 1, -7, 567, 89, 223-> 3*/
-int Prompt (string message)
+int Prompt (string message) // Метод выведения текста в терминале
+{
 Console.Write (message);
-int result = int.Parse(Console.ReadLine());
+int result = int.Parse(Console.ReadLine());//считывание строки, преобразование ее в число
 return result;
+}
 int [] InputArray (int length)
 {
     int[] array = new int[length];
-    for (int i = 0; i < array.length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
         array[i] = Prompt ($"Введите {i + 1} - й элемент");
     }return array;
